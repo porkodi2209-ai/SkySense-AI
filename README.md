@@ -36,36 +36,6 @@ The Weather API key is securely accessed through a terminal environment variable
 4. The received weather data is processed using Python.
 5. The application displays the weather details in the Streamlit interface.
 
-## API Key Configuration
-
-The API key is not stored inside the Python source code.
-
-In PowerShell, set the environment variable:
-
-```powershell
-$env:WEATHER_API_KEY="YOUR_API_KEY"
-```
-
-The actual API key should never be uploaded to GitHub or shared publicly.
-
-## Installation
-
-Install the required packages using:
-
-```powershell
-pip install -r requirements.txt
-```
-
-## Run the Application
-
-Use the following command:
-
-```powershell
-py -m streamlit run .\weather.py
-```
-
-The Streamlit application will open in the browser.
-
 ## Example
 
 Enter:
@@ -82,7 +52,7 @@ The application displays:
 - Humidity
 - Pressure
 - Condition
-
+```
 
 ## Conclusion
 
