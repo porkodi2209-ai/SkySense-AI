@@ -43,6 +43,8 @@ Enter:
 ```text
 Chennai
 ```
+<img width="1920" height="1080" alt="Screenshot (132)" src="https://github.com/user-attachments/assets/9f9d39d9-de5d-4767-b130-73028d8b770b" />
+
 
 The application displays:
 
